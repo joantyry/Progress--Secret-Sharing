@@ -1,0 +1,5 @@
+When reading the paper, it was difficult to understand because of my limited knowledge in the concepts like monotone. 
+My earlier understanding about monotone was, if a subset can unlock the secret then a bigger subset is allowed too.
+I am not sure whether I am on the right track. From the paper, I wasn’t exactly sure how to define security and didn’t 
+come across any software.
+https://www.cs.bgu.ac.il/~beimel/Papers/Survey.pdf
